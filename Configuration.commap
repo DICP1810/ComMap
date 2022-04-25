@@ -2,16 +2,16 @@
 ###   Basic  ###
 ################
 
-# fasta file for identifying cross-links (abssolute path)
+# fasta file for identifying cross-links (absolute path)
 A3_PATH_FASTA =
 
 # calculation type (1 for on-line mode, 0 for off-line mode)
 C60_CALCULATION_TYPE=1
 
-# (ONLY FOR OFF-LINE MODE) protein structure map (abssolute path)
+# (ONLY FOR OFF-LINE MODE) protein structure map (absolute path)
 C60_TYPE0_PROTEIN_STRUCTURE_MAP=
 
-# PDB structure files (default location: "Data" folder in the source code) (abssolute path)
+# PDB structure files (default location: "Data" folder in the source code) (absolute path)
 C60_PDB_STRUCTURE_PATH=
 
 # result output folder (abssolute path)
@@ -20,7 +20,7 @@ E1_PATH_EXPORT =
 # input cross-linking result type (0 for generic TAB delimited format; 1 fpr SpotLink format; 2 for pLink2 cross-link format; 3 for pLink2 loop-link format)
 C61_INPUT_LINK_RESULT_TYPE=
 
-# input cross-linking result file (abssolute path)
+# input cross-linking result file (absolute path)
 C61_INPUT_LINK_RESULT_FILE=
 
 ################
