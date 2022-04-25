@@ -5,7 +5,7 @@
 
 ## Brief Introduction
 ComMap is a software for protein complexes structural mapping for cross-linking mass spectrometry (CXMS). 
-The cross-linking peptides is idenfity from LC-MS/MS data by other identification software, such as [pLink2](http://pfind.org/software/pLink/index.html), [
+The cross-linking peptides is identify from LC-MS/MS data by other identification software, such as [pLink2](http://pfind.org/software/pLink/index.html), [
 SpotLink](https://github.com/DICP1810/SpotLink) et.al.
 ComMap can be used for both targeted protein complex analysis and large-scale protein-structure mapping analysis.
 
