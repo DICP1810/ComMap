@@ -17,7 +17,7 @@ ComMap can be used for both targeted protein complex analysis and large-scale pr
 ## ComMap Software Environment
 - OS: Windows or Linux
 - Runtime: python 3.8
-- Extarnal runtime library: numpy, pandas
+- External runtime library: numpy, pandas
 
 ## ComMap User Manual
 Please check and download [the user manual](https://github.com/DICP1810/ComMap/blob/main/Manual%20for%20ComMap.pdf) for more details on running ComMap.
