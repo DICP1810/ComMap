@@ -17,7 +17,7 @@ C60_PDB_STRUCTURE_PATH =
 # result output folder (absolute path)
 E1_PATH_EXPORT = 
 
-# input cross-linking result type (0 for generic TAB delimited format; 1 fpr SpotLink format; 2 for pLink2 cross-link format; 3 for pLink2 loop-link format)
+# input cross-linking result type (0 for generic TAB delimited format; 1 for SpotLink format; 2 for pLink2 cross-link format; 3 for pLink2 loop-link format)
 C61_INPUT_LINK_RESULT_TYPE = 
 
 # input cross-linking result file (absolute path)
